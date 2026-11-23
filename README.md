@@ -1,4 +1,4 @@
-## potts_kernel_energy_models
+## Potts_Kernel_Energy_Models
 Energy-based models for biological sequences: Potts vs Kernel energy, fit with exact likelihood or pseudolikelihood, ML or Bayesian (MAP), with epistasis analysis. 
 
 The model is p(x) = exp(E(x)) / Z, and we compare different choices for the energy E, the objective, and the inference.
