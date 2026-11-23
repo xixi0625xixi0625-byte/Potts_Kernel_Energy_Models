@@ -1,0 +1,4 @@
+numoy
+scipy
+pytest
+jupyter
